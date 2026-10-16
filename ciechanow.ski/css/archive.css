@@ -38,21 +38,3 @@
 .archive_link a:hover {
     color: #777;
 }
-
-.archive_older {
-    width: 100%;
-    text-align: center; 
-    border-bottom: 1px solid #ddd; 
-    line-height: 0.1em;
-    /* margin: 10px 0 20px;  */
-    margin-top: 5em;
-    margin-bottom: 2em;
-}
-
-.archive_older span { 
-    background:#F8F8F8; 
-    padding:0 1em; 
-    color: #aaa;
-    font-size: 0.9em;
-    letter-spacing: 0.03em;
-}
